@@ -182,6 +182,6 @@ We're committed to continuing to build the Agents SDK as an open source framewor
 
 ## References
 
-본 프로젝트의 설명, 예제, 구조 등은 아래 공식 리소스를 참고하여 작성되었습니다.
+Much of the description, examples, and structure of this project are directly borrowed from the official resource below:
 
-- [OpenAI Agents SDK GitHub 저장소](https://github.com/openai/openai-agents-python)
+- [OpenAI Agents SDK GitHub repository](https://github.com/openai/openai-agents-python)
